@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap');
+
+body {
+    background-color: #af50e5; /* Color celeste agua */
+    font-family: 'Noto Sans SC', sans-serif; /* Fuente con estilo asiático sutil */
+}
+
+h1 {
+    font-family: 'Noto Sans SC', sans-serif;
+    text-align: center;
+    color: #333333; /* Color oscuro para contraste */
+}
+
+.title-container img {
+    margin-left: 15px;
+    height: 120px; /* Ajusta el tamaño de la imagen */
+}
